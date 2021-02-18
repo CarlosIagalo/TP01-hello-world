@@ -11,7 +11,7 @@ Banco de Dados ? One Drive ? Pendrive ? Pastas com nomes diferentes
 
 **DEMANDA MUITA ORGANIZAÇÃO**
 
-###Fluxo Simples quando **EU** alterei algo no projeto###
+### Fluxo Simples quando **EU** alterei algo no projeto
 
 1.Realizar as alterações necessárias
 2.Fazer o commit
